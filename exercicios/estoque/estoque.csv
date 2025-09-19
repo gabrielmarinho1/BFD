@@ -1,0 +1,32 @@
+id, nome, quantidade, preco, categoria
+1, Arroz, 50, 4.99, Alimentos
+2, Feijao, 30, 7.49, Alimentos
+3, Macarrao, 40, 3.99, Alimentos
+4, Detergente,10, 2.50, Limpeza
+5, Sabao em po, 15, 8.99, Limpeza
+6, Refrigerante, 25, 5.49, Bebidas
+7, Agua mineral, 60, 2.00, Bebidas
+8, Biscoito, 35, 3.50, Alimentos
+9, Leite, 45, 4.20, Laticinios
+10, Queijo, 10, 15.00, Laticinios
+11, Presunto, 12, 13.50, Laticinios
+12, Pao de forma, 22, 6.00, Padaria
+13, Manteiga, 18, 9.80, Laticinios
+14, Cafe, 27, 12.00, Bebidas
+15, Acucar, 33, 4.10, Alimentos
+16, Sal, 40, 2.20, Alimentos
+17, Farinha de trigo, 19, 5.60, Alimentos
+18, Oleo de soja, 25, 7.30, Alimentos
+19, Vinagre, 14, 3.90, Alimentos
+20, Molho de tomate, 21, 2.80, Alimentos
+21, Sabonete, 28, 2.50, Higiene
+22, Papel higienico, 16, 10.00, Higiene
+23, Creme dental, 24, 3.20, Higiene
+24, Escova de dente, 30, 4.00, Higiene
+25, Shampoo, 13, 8.50, Higiene
+26, Amaciante, 11, 9.90, Limpeza
+27, Esponja, 17, 1.80, Limpeza
+28, Suco, 23, 4.70, Bebidas
+29, Iogurte, 20, 3.90, Laticinios
+30, Frango, 9, 18.00, Carnes
+31,caneta,50,2,papelaria
